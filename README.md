@@ -1,9 +1,4 @@
 # Fine_Tuning
-Here's a README document for the fine-tuning code:
-
----
-
-# Fine-Tuning GPT-3.5 Turbo with OpenAI API
 
 This document provides instructions and an overview of the process for fine-tuning the GPT-3.5 Turbo model using the OpenAI API.
 
